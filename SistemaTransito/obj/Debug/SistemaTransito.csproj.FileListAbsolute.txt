@@ -1,0 +1,10 @@
+C:\Users\kevin\OneDrive\Documents\Clonar\SistemaTransito\bin\SistemaTransito.dll.config
+C:\Users\kevin\OneDrive\Documents\Clonar\SistemaTransito\bin\SistemaTransito.dll
+C:\Users\kevin\OneDrive\Documents\Clonar\SistemaTransito\bin\SistemaTransito.pdb
+C:\Users\kevin\OneDrive\Documents\Clonar\SistemaTransito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kevin\OneDrive\Documents\Clonar\SistemaTransito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kevin\OneDrive\Documents\Clonar\SistemaTransito\obj\Debug\SistemaTransito.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documents\Clonar\SistemaTransito\obj\Debug\SistemaTransito.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documents\Clonar\SistemaTransito\obj\Debug\SistemaT.DB781D2C.Up2Date
+C:\Users\kevin\OneDrive\Documents\Clonar\SistemaTransito\obj\Debug\SistemaTransito.dll
+C:\Users\kevin\OneDrive\Documents\Clonar\SistemaTransito\obj\Debug\SistemaTransito.pdb
